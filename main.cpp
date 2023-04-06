@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
    cout << "Hello, World!" << endl;
-   cout << "pass:123" << endl;
+   cout << "nopass" << endl;
 
     return 0;
 }
